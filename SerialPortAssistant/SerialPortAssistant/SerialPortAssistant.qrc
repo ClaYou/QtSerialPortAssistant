@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Add.png</file>
+        <file>images/Clear.png</file>
+        <file>images/Delete.png</file>
+        <file>images/Icon.png</file>
+        <file>images/Log.png</file>
+        <file>images/New.png</file>
+        <file>images/Open.png</file>
+        <file>images/Pause.png</file>
+        <file>images/QuickSet.png</file>
+        <file>images/Save.png</file>
+        <file>images/Set.png</file>
+        <file>images/Start.png</file>
+        <file>images/Stop.png</file>
+        <file>images/iconIco.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+﻿  ChildWidget.cpp
+  moc_ChildWidget.cpp
+  moc_SerialPortAssistant.cpp
+  moc_SettingDlg.cpp
+  SerialPortAssistant.cpp
+  SettingDlg.cpp
+  TcpServer.cpp
+  main.cpp
+  SerialPortAssistant.vcxproj -> F:\QtDemo\SerialPortAssistant\x64\Debug\SerialPortAssistant.exe

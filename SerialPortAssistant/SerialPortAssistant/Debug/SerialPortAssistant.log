@@ -1,0 +1,29 @@
+﻿  Rcc'ing SerialPortAssistant.qrc...
+  Moc'ing SerialPortAssistant.h...
+  Moc'ing ChildWidget.h...
+  Moc'ing AboutDlg.h...
+  Moc'ing ASCIIDlg.h...
+  Moc'ing CustomColDlg.h...
+  Moc'ing TcpServer.h...
+  Moc'ing TcpClient.h...
+  Moc'ing SettingDlg.h...
+  AboutDlg.cpp
+  ASCIIDlg.cpp
+  ChildWidget.cpp
+  CustomColDlg.cpp
+  main.cpp
+  SerialPortAssistant.cpp
+  SettingDlg.cpp
+  TcpClient.cpp
+  TcpServer.cpp
+  ToolsHelp.cpp
+  qrc_SerialPortAssistant.cpp
+  moc_SerialPortAssistant.cpp
+  moc_ChildWidget.cpp
+  moc_AboutDlg.cpp
+  moc_ASCIIDlg.cpp
+  moc_CustomColDlg.cpp
+  moc_TcpServer.cpp
+  moc_TcpClient.cpp
+  moc_SettingDlg.cpp
+  SerialPortAssistant.vcxproj -> F:\QtDemo\SerialPortAssistant\Win32\Debug\SerialPortAssistant.exe
