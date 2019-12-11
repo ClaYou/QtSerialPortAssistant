@@ -20,7 +20,7 @@ Qt5下编写的串口网络调试助手
 ![界面](https://github.com/ClaYou/QtSerialPortAssistant/blob/master/DemoPic2.png)
 
 ## 联系作者
-E-mail:xb_hu@163.com  
+E-mail:xb_hu0926@163.com  
 QQ:383865602
 
 ## 声明
